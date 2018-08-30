@@ -34,7 +34,7 @@ function gameChecker(game){
   }
   console.log("across: ", across)
   for (let a = 0; a < across.length; a++){
-    
+    console.log(Math.floor(a/3)*3) //0 0 0 3 3 3 6 6 6
   }
 
 return "IT'S A TIE";
