@@ -1,5 +1,0 @@
-/*
-tic-tac-toe checker
-If user wins, return "_ IS WINNER"
-Else if tie, return "IT'S A TIE"
-*/
